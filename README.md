@@ -30,7 +30,9 @@ The system allows users to manage expenses, track budgets, and view financial in
 ## 📁 Project Structure
 
 expense-tracker-system/
+
 ├── frontend/   # React application
+
 ├── backend/    # Spring Boot APIs
 
 ---
