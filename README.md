@@ -136,12 +136,32 @@ Tables will be created automatically
 
 ## 📸 Screenshots
 
+<img width="851" height="854" alt="image" src="https://github.com/user-attachments/assets/e18eed19-2471-4177-a13d-de0fcf28baa5" />
+
+### 🔐 Login Page
+
+<img width="843" height="858" alt="image" src="https://github.com/user-attachments/assets/ae6668a6-45d1-49cc-b1bf-3e316010e042" />
+
+### 📝 Register Page
+
+<img width="930" height="886" alt="image" src="https://github.com/user-attachments/assets/eeee24e9-b593-4d15-a381-f7e067202563" />
+
+### 📊 Dashboard
+
 <img width="1902" height="910" alt="image" src="https://github.com/user-attachments/assets/fa8a916d-21a8-4897-ad41-5cc01f9b298e" />
+
+### 💰 Expense Management
+
 <img width="1877" height="889" alt="image" src="https://github.com/user-attachments/assets/8b19f3ab-ac3e-4420-956d-dd8a626c7bd1" />
+
 <img width="1902" height="893" alt="image" src="https://github.com/user-attachments/assets/c9b433e4-7c5d-4a45-a8aa-5690106d47a7" />
+
 <img width="1887" height="908" alt="image" src="https://github.com/user-attachments/assets/ce13a18a-52b4-494b-9950-11daa0cd8645" />
+
 <img width="1893" height="877" alt="image" src="https://github.com/user-attachments/assets/ba747e70-f9c1-4cc8-a569-476d14907e8b" />
+
 <img width="1888" height="884" alt="image" src="https://github.com/user-attachments/assets/70fab33a-6c7a-4260-9cb0-d137d64759f1" />
+
 <img width="655" height="568" alt="image" src="https://github.com/user-attachments/assets/1178b9e7-529e-4efd-8e5b-07077035edd4" />
 
 ---
