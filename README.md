@@ -39,7 +39,7 @@ expense-tracker-system/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/expense-tracker-system.git
+git clone https://github.com/Anishhkumar/expense-tracker-system.git
 cd expense-tracker-system
 
 ---
