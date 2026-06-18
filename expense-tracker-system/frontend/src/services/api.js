@@ -1,7 +1,7 @@
 import axios from "axios";
 import { getStoredAuthSession } from "../utils/auth";
 
-const DEFAULT_BACKEND_URL = "http://localhost:8082";
+const DEFAULT_BACKEND_URL = "https://expense-tracker-api-py1a.onrender.com";
 const IS_DEVELOPMENT = process.env.NODE_ENV === "development";
 
 export const API_BASE_URL =
